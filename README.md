@@ -1,5 +1,5 @@
 # Heart_Disease-_Project
-Heart Disease Prediction using Logistic Regression. This project includes data analysis, preprocessing, and model building to classify heart disease presence. Dashboard visualizations created with Python libraries like Matplotlib and Seaborn. Achieved high accuracy.
+Heart Disease Prediction using Logistic Regression. This project covers data analysis, preprocessing, and model development to classify heart disease presence. Visual insights were presented through an interactive dashboard built with Power BI, while Python libraries like Matplotlib and Seaborn supported deeper statistical exploration.
 
 This project aims to predict the presence of heart disease using a Logistic Regression model. It follows a complete machine learning pipeline—from exploratory data analysis (EDA) to model deployment—designed to deliver actionable insights and high classification accuracy.
 
@@ -40,3 +40,4 @@ These visualizations were built using Matplotlib and Seaborn, offering a clear v
 ✅ Results
 - Achieved high accuracy in predicting heart disease
 - Model interpretable and deployable for real-world use
+- Dashboard supports clinical decision-making with clear, data-driven visuals
